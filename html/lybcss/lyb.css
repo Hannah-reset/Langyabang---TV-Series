@@ -1,0 +1,40 @@
+body{
+  border:0 auto;
+  margin:0px auto;
+  color:#4F94CD; 
+ background-image:url(../images/bglyb2.jpg); background-attachment:fixed;
+  font-family:LiSu,sans-serif;
+}
+
+
+table{
+
+  border: 0px solid #a04511;
+  border-collapse: collapse;
+}
+td{
+  padding:20px; 
+  border: 0px solid; 
+}
+#mytd{
+  padding:0 0 0 100px;
+}
+a{
+  color: #556B2F ; 
+  
+}
+a:visited{
+  text-decoration:bold;
+}
+a:hover{
+  color:#68228B;
+  text-decoration:none;}
+a:active{
+  color:#0000ff;
+}
+#copyright{
+  
+  color:#8B2500; 
+  text-align:center; 
+  font-size:12pt;
+}
